@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AkhtarPorto/static/css/main.450edfe3.css",
-    "main.js": "/AkhtarPorto/static/js/main.8e68d289.js",
+    "main.js": "/AkhtarPorto/static/js/main.09fcce6e.js",
     "static/css/64.bba8fa55.chunk.css": "/AkhtarPorto/static/css/64.bba8fa55.chunk.css",
     "static/js/64.228cb9a2.chunk.js": "/AkhtarPorto/static/js/64.228cb9a2.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/AkhtarPorto/static/css/769.b3cbb36b.chunk.css",
@@ -19,7 +19,7 @@
     "index.html": "/AkhtarPorto/index.html",
     "static/media/talksCardBack.svg": "/AkhtarPorto/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.450edfe3.css.map": "/AkhtarPorto/static/css/main.450edfe3.css.map",
-    "main.8e68d289.js.map": "/AkhtarPorto/static/js/main.8e68d289.js.map",
+    "main.09fcce6e.js.map": "/AkhtarPorto/static/js/main.09fcce6e.js.map",
     "64.bba8fa55.chunk.css.map": "/AkhtarPorto/static/css/64.bba8fa55.chunk.css.map",
     "64.228cb9a2.chunk.js.map": "/AkhtarPorto/static/js/64.228cb9a2.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/AkhtarPorto/static/css/769.b3cbb36b.chunk.css.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.450edfe3.css",
-    "static/js/main.8e68d289.js"
+    "static/js/main.09fcce6e.js"
   ]
 }
