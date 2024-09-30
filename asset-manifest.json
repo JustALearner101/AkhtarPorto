@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/AkhtarPorto/static/css/main.450edfe3.css",
-    "main.js": "/AkhtarPorto/static/js/main.3b2bac49.js",
+    "main.js": "/AkhtarPorto/static/js/main.8e68d289.js",
     "static/css/64.bba8fa55.chunk.css": "/AkhtarPorto/static/css/64.bba8fa55.chunk.css",
     "static/js/64.228cb9a2.chunk.js": "/AkhtarPorto/static/js/64.228cb9a2.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/AkhtarPorto/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.a845bc5b.chunk.js": "/AkhtarPorto/static/js/769.a845bc5b.chunk.js",
     "static/media/thariqLogo.png": "/AkhtarPorto/static/media/thariqLogo.eb3114f72a958fc379b2.png",
+    "static/media/noteitLogo.png": "/AkhtarPorto/static/media/noteitLogo.11f01fc794a323046909.png",
     "static/media/Montserrat-Regular.ttf": "/AkhtarPorto/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/AkhtarPorto/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/resume.pdf": "/AkhtarPorto/static/media/resume.da9d7a8a2862dbe5088e.pdf",
@@ -15,11 +16,10 @@
     "static/media/developerActivity.svg": "/AkhtarPorto/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/Signfinity_Logo.png": "/AkhtarPorto/static/media/Signfinity_Logo.3d7311a1f102daa39879.png",
     "static/media/skill.svg": "/AkhtarPorto/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/saayaHealthLogo.webp": "/AkhtarPorto/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "index.html": "/AkhtarPorto/index.html",
     "static/media/talksCardBack.svg": "/AkhtarPorto/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.450edfe3.css.map": "/AkhtarPorto/static/css/main.450edfe3.css.map",
-    "main.3b2bac49.js.map": "/AkhtarPorto/static/js/main.3b2bac49.js.map",
+    "main.8e68d289.js.map": "/AkhtarPorto/static/js/main.8e68d289.js.map",
     "64.bba8fa55.chunk.css.map": "/AkhtarPorto/static/css/64.bba8fa55.chunk.css.map",
     "64.228cb9a2.chunk.js.map": "/AkhtarPorto/static/js/64.228cb9a2.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/AkhtarPorto/static/css/769.b3cbb36b.chunk.css.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.450edfe3.css",
-    "static/js/main.3b2bac49.js"
+    "static/js/main.8e68d289.js"
   ]
 }
